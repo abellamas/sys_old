@@ -1,3 +1,4 @@
+#%%
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -98,3 +99,5 @@ while i < n:
     f_2 = f_n
     i = i + 1
 
+
+# %%
